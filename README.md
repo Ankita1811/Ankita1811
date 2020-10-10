@@ -1,4 +1,4 @@
-### Hello there! My name is Ankita Ghosh 👋🤓
+### <b>Hello there! My name is Ankita Ghosh<b> 👋🤓
 
 <!--
 **Ankita1811/Ankita1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
